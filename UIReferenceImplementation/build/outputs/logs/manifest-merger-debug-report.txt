@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml:1:1-67
+INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml:1:1-67
+INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml:1:1-67
+INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml:1:1-67
+INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml:1:1-67
+INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml:1:1-67
+INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml:1:1-67
+	package
+		ADDED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml:1:11-64
+		INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+		ADDED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml:1:1-67
+		INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml:1:1-67
+	android:versionCode
+		INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+		ADDED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml:1:1-67
+		INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+uses-sdk
+INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+		ADDED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+		ADDED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml
+		INJECTED from D:\Android Projects\SmartPen\UIReferenceImplementation\src\main\AndroidManifest.xml

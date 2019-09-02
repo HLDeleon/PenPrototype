@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+attr? layerType
+color control_gray
+color control_white_transparent
+color word_gray
+dimen horizontal_margin
+dimen smart_guide_horizontal_padding
+dimen smart_guide_text_size
+dimen smart_guide_vertical_padding
+dimen vertical_margin
+drawable bottom_border
+drawable rectangle_border
+id BACKGROUND
+id CAPTURE
+id MODEL
+id TEMPORARY
+id editor_view
+id layer_background
+id layer_capture
+id layer_model
+id layer_temporary
+id more_view
+id scroll_view
+id smart_guide_view
+id stack_view
+id style_view
+id word_view
+layout editor_view
+string more_view_string
+string style_view_string_h1
+string style_view_string_h2
+string style_view_string_h3
+string style_view_string_normal
+styleable LayerView layerType

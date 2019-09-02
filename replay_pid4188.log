@@ -1,0 +1,11 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 174 ciObject found
+ciMethod java/lang/Object <init> ()V 4097 1 677138 0 -1
+ciMethod java/lang/Object getClass ()Ljava/lang/Class; 2049 1 256 0 -1
+ciMethod java/lang/Object hashCode ()I 3073 1 384 0 -1
+ciMethod java/lang/Object equals (Ljava/lang/Object;)Z 2057 1 19038 0 -1
+ciMethod java/lang/String <init> ([CII)V 2873 1 5522 0 -1
+ciMethod java/lang/AbstractStringBuilder <init> (I)V 1249 1 96755 0 -1
+ciMethod java/lang/AbstractStringBuilder append (Ljava/lang/String;)Ljava/lang/AbstractStringBuilder; 2105 1 12333 0 -1
